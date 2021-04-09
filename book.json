@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "highlight"
+    ],
+    "pluginsConfig": {
+        "highlight": {}
+    }
+}
